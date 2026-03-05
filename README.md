@@ -25,20 +25,3 @@ SQL (MySQL) | Python (Pandas, Matplotlib, Seaborn) | Power BI
 ![Discount vs Profit](discount_vs_profit.png)
 ```
 
-3. Click **Commit changes**
-
----
-
-**Step 6 — Final repo structure check**
-Your repo should look like this:
-```
-Retail-Profitability-Analysis/
-├── README.md
-├── Retail_Profitability_Analysis.ipynb
-├── queries.sql
-├── dashboard.pdf
-├── profit_by_category.png
-├── subcategory_profit.png
-├── discount_vs_profit.png
-├── profit_by_region.png
-└── monthly_trend.png
